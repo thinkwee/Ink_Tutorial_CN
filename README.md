@@ -1,2 +1,42 @@
 # ink_tutorial_cn
-chinese edition of ink tutorial
+- ink脚本语言的教程中文翻译
+- 原文地址：[WritingWithInk](https://github.com/inkle/ink/blob/master/Documentation/WritingWithInk.md)
+- 未翻译全部内容，只将代码分块简单翻译
+- ink文件推荐在官方的编辑器inky中打开：[inky](https://github.com/inkle/inky)
+
+# 章节
+- 第一部分：基础
+  - 内容
+  - 选择
+  - 节点(Knots)
+  - 跳转(Diverts)
+  - 分支流程（Flow)
+  - 引用和子节点(Stitches)
+  - 更多选择样式
+  - 文本变量
+  - 游戏查询
+- 第二部分：推进故事(Weave)
+  - 收束点（Gathers)
+  - 嵌套流程
+  - 追踪一个故事推进线
+- 第三部分：变量与逻辑
+  - 全局变量
+  - 逻辑
+  - 条件块
+  - 临时变量
+  - 函数
+  - 常量
+  - 进阶：外部调用逻辑
+- 第四部分：高级流程控制
+  - 管道(Tunnels)
+  - 线程(Threads)
+- 第五部分：高级状态追踪
+  - 基本列表
+  - 重用列表
+  - 列表值
+  - 多值列表
+  - 高级列表操作
+  - 多列列表
+  - 一个长例子（犯罪现场）
+  - 摘要
+- 第六部分：国际字符支持
