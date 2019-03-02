@@ -1,9 +1,9 @@
-# ink_tutorial_cn
+﻿# ink_tutorial_cn
 - ink脚本语言的教程中文翻译
 - 原文地址：[WritingWithInk](https://github.com/inkle/ink/blob/master/Documentation/WritingWithInk.md)
 - 未翻译全部内容，只将代码分块简单翻译
 - ink文件推荐在官方的编辑器inky中打开：[inky](https://github.com/inkle/inky)
-- 第三部分更新中
+- 第四部分更新中
 
 # 章节
 - 第一部分：基础
